@@ -20,7 +20,7 @@ So this space looks emptier than it should 😅
 
 ## 🌱 What I’m learning next
 - **Kubernetes** — really understanding it, not just deploying on it  
-- **Neo4j** & graph databases (maybe “GraphRex” someday?)  
+- **Neo4j** & graph databases
 - Building useful **AI companions** — for example, tools that could live in your workflow,  
   auto-navigate Jira or Atlassian, or continuously run market research in the background
 
