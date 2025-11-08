@@ -27,6 +27,6 @@ So this space looks emptier than it should 😅
 ## 🧩 Older public things
 I keep a few older projects here — like **Pixtures**, which turns Google Maps areas block-by-block  
 into artistic patterns inspired by **Ed Fairburn**’s map portraits;  
-**solarsystem**, a physics-based simulation engine for gravitational systems;  
+**git-summarize**, to declutter messy git histories;  
 and my first **freelance CRM**.  
 They’re not perfect, but I keep them around as milestones 🌍
